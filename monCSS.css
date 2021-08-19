@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lato&family=Rajdhani&display=swap');
+#banniere {
+    height: 200px;
+    width:800px;
+    text-align: center; 
+}
+
+nav{
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-image: radial-gradient(at center top,#CCDAE0,#EDF2F4 )
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    color: #EF233C;
+    font-size:50px;
+    font-family: 'Rajdhani', sans-serif;
+    text-decoration: underline;
+}
+
+h3 {
+    color: #2B2D42;
+    font-weight: bold;
+    text-decoration: underline dotted;
+    font-family: 'Acme', sans-serif;
+}
+
+article {
+    border: solid 2px black ;
+    font-family: 'Lato', sans-serif;
+    width: 350px;
+    border: 1px solid black;
+    padding: 12px;
+    margin: auto;
+    text-align: center;
+ 
+}
+
+footer {
+    text-align: right;
+}
+
+li {
+    list-style: none;
+}
+
+.image {
+    text-align: center;
+}
+
+.image1 {
+    text-align: center;
+}
+
+a:visited {
+    color : orange
+}
+
+a:link {
+    color : grey;
+}
+
+a:hover {
+    color:#2B2D42;
+}
+.red{
+    color: red;
+}
+
+h1 {
+    text-align: center;
+}
